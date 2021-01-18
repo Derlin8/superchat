@@ -1,3 +1,0 @@
-/Users/dereklin/CLionProjects/Snake-Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/dereklin/CLionProjects/Snake-Game/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/dereklin/CLionProjects/Snake-Game/cmake-build-debug/CMakeFiles/Snake_Game.dir
